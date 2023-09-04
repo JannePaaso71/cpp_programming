@@ -1,0 +1,7 @@
+C:/Users/janne/Documents/oamk_c++_olio_ohjelmointi/kotitehtava1/build/CMakeFiles/kotitehtava1.dir
+C:/Users/janne/Documents/oamk_c++_olio_ohjelmointi/kotitehtava1/build/CMakeFiles/edit_cache.dir
+C:/Users/janne/Documents/oamk_c++_olio_ohjelmointi/kotitehtava1/build/CMakeFiles/rebuild_cache.dir
+C:/Users/janne/Documents/oamk_c++_olio_ohjelmointi/kotitehtava1/build/CMakeFiles/list_install_components.dir
+C:/Users/janne/Documents/oamk_c++_olio_ohjelmointi/kotitehtava1/build/CMakeFiles/install.dir
+C:/Users/janne/Documents/oamk_c++_olio_ohjelmointi/kotitehtava1/build/CMakeFiles/install/local.dir
+C:/Users/janne/Documents/oamk_c++_olio_ohjelmointi/kotitehtava1/build/CMakeFiles/install/strip.dir
