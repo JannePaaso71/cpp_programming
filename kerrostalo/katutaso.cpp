@@ -1,6 +1,7 @@
 
 #include "katutaso.h"
 
+
 Katutaso::Katutaso()
 {
     cout<<"Katutaso luotu"<<endl;
@@ -17,11 +18,12 @@ void Katutaso::maaritaAsunnot()
     as6.maarita(100, 2);
 
     cout<<"Maaritellaan katutason kerrokselta perittyja asuntoja"<<endl;
-    Kerros::maaritaAsunnot();
+    this->Kerros::maaritaAsunnot();
 }
 
 double Katutaso::laskeKulutus(double a) {
-    double kulutus = as1.laskeKulutus(a)+as2.laskeKulutus(a)+as3.laskeKulutus(a)+as4.laskeKulutus(a)+as5.laskeKulutus(a)+as5.laskeKulutus(a);
+    double kulutus = as5.laskeKulutus(a)+as5.laskeKulutus(a)
+                     +Kerros::laskeKulutus(a);
         return kulutus;
 }
 

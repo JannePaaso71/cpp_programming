@@ -24,7 +24,8 @@ void Kerros::maaritaAsunnot()
 
 double Kerros::laskeKulutus(double a)
 {
-    double kulutus = as1.laskeKulutus(a)+as2.laskeKulutus(a)+as3.laskeKulutus(a)+as4.laskeKulutus(a);
+    double kulutus = as1.laskeKulutus(a)+as2.laskeKulutus(a)
+                     +as3.laskeKulutus(a)+as4.laskeKulutus(a);
     return kulutus;
 }
 

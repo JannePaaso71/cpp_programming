@@ -23,8 +23,7 @@ void Asunto::maarita(int pintaAla, int henkiloita)
 double Asunto::laskeKulutus(double hinta)
 {
     double kulutus = hinta*neliot*asukasMaara;
-    //cout<<"Asunnon kulutus, kun hinta="<<hinta<<" on "
-    //     <<neliot*asukasMaara<<endl;
+
     return kulutus;
 }
 
